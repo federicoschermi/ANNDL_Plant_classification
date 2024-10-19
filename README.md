@@ -6,6 +6,8 @@ This project was developed for the course of **Artificial Neural Networks and De
 The goal of this project is to build a Convolutional Neural Network (CNN) model capable of distinguishing between healthy and unhealthy plants, based on images of plant leaves.
 
 ### Dataset
+The dataset used for this project can be found [here](https://www.kaggle.com/datasets/federicoschermi/an2dl-plants-dataset).
+
 The dataset consists of 5200 images, representing healthy and unhealthy plant leaves. Each image is a 96x96 RGB tensor.
 
 **Dataset Details:**
